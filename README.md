@@ -54,12 +54,12 @@ The course is organized into several modules, each covering a fundamental topic 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Intro_to_Programming_C++.git
+   git clone https://github.com/syedtaha22/Intro_to_Programming_CPP
    ```
 
 2. **Navigate to the Course Directory:**
    ```bash
-   cd Intro_to_Programming_C++
+   cd Intro_to_Programming_CPP
    ```
 
 3. **Explore the Modules:**
