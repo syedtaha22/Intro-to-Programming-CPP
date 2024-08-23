@@ -46,7 +46,7 @@ A basic C++ program typically includes:
 
 ## Next Steps
 
-Once you’ve completed the Introduction module, you’ll be ready to move on to the Basics module, where we’ll dive into fundamental concepts such as data types, variables, and operators.
+Once you’ve completed the Introductio, you’ll be ready to move on to the Basics, where we’ll dive into fundamental concepts such as data types, variables, and operators.
 
 If you have any questions or need help, feel free to reach out or consult the provided resources.
 
