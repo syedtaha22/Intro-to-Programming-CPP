@@ -16,7 +16,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - Data types, variables, and constants
    - Operators
 
-3. **Input and Output**
+3. **[Input and Output](03_Input_Output/README.md)**
    - Handling user input and output with `cin` and `cout`
    - File input and output
 
