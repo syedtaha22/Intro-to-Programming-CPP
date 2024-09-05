@@ -32,8 +32,8 @@ Write a program that displays a menu to convert between Celsius and Fahrenheit. 
 2. Convert Fahrenheit to Celsius.
 
 The user then enters the temperature, and the program performs the appropriate conversion:
-- \( F = \frac{9}{5} \times C + 32 \)
-- \( C = \frac{5}{9} \times (F - 32) \)
+- $F = \frac{9}{5} \times C + 32$
+- $C = \frac{5}{9} \times (F - 32)$
 
 ---
 
