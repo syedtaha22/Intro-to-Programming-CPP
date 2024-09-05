@@ -20,7 +20,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - Handling user input and output with `cin` and `cout`
    - File input and output
 
-4. **Conditional Statements**
+4. **[Conditional Statements](04_Conditional_Statements/README.md)**
    - `if` and `else` statements
    - `switch` statements
    - Nested conditions
@@ -46,7 +46,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - Introduction to structures, classes, and objects
    - Basics of templates (if time permits)
 
-10. **Projects**
+10. **[Projects](/10_Projects/README.md)**
     - Example projects to apply concepts learned
     - Project explanations and source code
 
