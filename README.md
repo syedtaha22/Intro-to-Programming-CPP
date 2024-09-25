@@ -25,7 +25,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - `switch` statements
    - Nested conditions
 
-5. **Loops**
+5. **[Loops](05_Loops/README.md)**
    - `for`, `while`, and `do-while` loops
    - Loop examples and use cases
 
