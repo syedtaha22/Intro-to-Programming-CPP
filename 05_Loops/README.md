@@ -36,4 +36,4 @@ By the end of this section, you should be able to:
 
 ## Next Steps
 
-Once you've mastered loops, move on to the [Functions](../06_Functions/README.md) section to learn how to create reusable blocks of code that perform specific tasks.
+Once you've mastered loops, move on to the [Functions](../06_Arrays//README.md) section to learn how to create reusable blocks of code that perform specific tasks.
