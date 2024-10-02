@@ -29,7 +29,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - `for`, `while`, and `do-while` loops
    - Loop examples and use cases
 
-6. **Arrays**
+6. **[Arrays](06_Arrays/README.md)**
    - Basic arrays and multidimensional arrays
    - Array operations and examples
 
