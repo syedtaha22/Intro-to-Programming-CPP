@@ -33,14 +33,15 @@ The course is organized into several modules, each covering a fundamental topic 
    - Basic arrays and multidimensional arrays
    - Array operations and examples
 
-7. **Pointers**
+7. **[Functions](07_Functions/README.md)**
+   - Defining and calling functions
+   - Function Parameters
+   - Recursion
+   - Refactoring with functions
+
+8. **Pointers**
    - Basics of pointers and dynamic memory allocation
    - Pointer usage and examples
-
-8. **Functions**
-   - Defining and calling functions
-   - Function overloading
-   - Recursion
 
 9. **Advanced Topics**
    - Introduction to structures, classes, and objects
