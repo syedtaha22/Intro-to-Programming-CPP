@@ -31,4 +31,5 @@ By the end of this section, you should be able to:
 
 ## Next Steps
 
-Once you're comfortable with arrays, move on to the [Pointers](../07_Pointers/README.md) section to learn how arrays and pointers are closely related and how they can be used together to create more dynamic programs.
+Once you're comfortable with arrays, move on to the [Functions](../07_Functions/) section to learn how arrays and functions can be used together to build more powerful programs.
+

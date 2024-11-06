@@ -95,4 +95,4 @@ This is important to know when working with large arrays, as accessing elements 
 
 Multidimensional arrays are a powerful tool for working with tabular or grid-like data. In this section, you’ve learned how to declare, initialize, and traverse two-dimensional arrays, and how higher-dimensional arrays work. Keep in mind that multidimensional arrays are stored in row-major order, which can affect performance in certain use cases.
 
-Next, explore the [Pointers](../07_Pointers/README.md) section to learn about memory management and how to use pointers with arrays.
+Next, explore the [Function](../07_Functions/README.md) section to learn about using functions with arrays and how to pass arrays as function arguments.
