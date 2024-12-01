@@ -52,7 +52,6 @@ void hanoi(int n, int start, int end) {
     }
 }
 
-
 int main() {
     // Get the number of disks from the user
     int numDisks;
