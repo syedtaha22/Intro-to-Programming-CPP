@@ -39,7 +39,7 @@ The course is organized into several modules, each covering a fundamental topic 
    - Recursion
    - Refactoring with functions
 
-8. **Pointers**
+8. **[Pointers](08_Pointers/README.md)**
    - Basics of pointers and dynamic memory allocation
    - Pointer usage and examples
 
