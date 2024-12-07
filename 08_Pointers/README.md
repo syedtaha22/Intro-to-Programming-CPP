@@ -46,4 +46,5 @@ By the end of this section, you should be able to:
 
 ## Next Steps
 
-After Understanding the basics of pointers, you can move on to more advanced topics like structures, classes, and objects. These concepts build on the foundation of pointers and provide a deeper understanding of object-oriented programming in C++. For more information, refer to the [Advanced Topics](../09_Advanced_Topics/README.md) section.
+After Understanding the basics of pointers, you can move on to more advanced topics like structures, classes, and objects. These concepts build on the foundation of pointers and provide a deeper understanding of object-oriented programming in C++. For addiional topics, refer to the [Additional Topics](../09_Additional_Topics/README.md) section.
+

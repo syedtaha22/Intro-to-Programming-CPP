@@ -43,9 +43,10 @@ The course is organized into several modules, each covering a fundamental topic 
    - Basics of pointers and dynamic memory allocation
    - Pointer usage and examples
 
-9. **Advanced Topics**
-   - Introduction to structures, classes, and objects
-   - Basics of templates (if time permits)
+9. **[Additional Topics](09_Additional_Topics/README.md)**
+   - Introduction to structures.
+   - Manipulating linked lists, and working with nodes.
+   - Using vectors for dynamic arrays.
 
 10. **[Projects](/10_Projects/README.md)**
     - Example projects to apply concepts learned
