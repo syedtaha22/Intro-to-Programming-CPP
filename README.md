@@ -48,10 +48,6 @@ The course is organized into several modules, each covering a fundamental topic 
    - Manipulating linked lists, and working with nodes.
    - Using vectors for dynamic arrays.
 
-10. **[Projects](/10_Projects/README.md)**
-    - Example projects to apply concepts learned
-    - Project explanations and source code
-
 ## Getting Started
 
 1. **Clone the Repository:**
