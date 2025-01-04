@@ -49,4 +49,4 @@ By the end of this section, you should be able to:
 
 ## Next Steps
 
-Once you’ve grasped these additional topics, you’ll be well-prepared to explore more advanced C++ concepts, such as classes, objects, and algorithms. To put your skills to use, check out the **[Projects](../10_Projects/README.md)** section for practical coding challenges.
+Once you’ve grasped these additional topics, you’ll be well-prepared to explore more advanced C++ concepts, such as classes, objects, and algorithms.
