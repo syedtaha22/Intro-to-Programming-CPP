@@ -1,10 +1,12 @@
-# Intro to Programming with C++
+# Introduction to Programming with C++
 
-Welcome to the **Intro to Programming with C++** repository! This course is designed to provide a comprehensive introduction to programming using the C++ language. Whether you’re new to programming or looking to refresh your skills, this repository contains all the resources you need to get started.
+Hi! This is **Taha**. Depending on your section, I may or may not be your TA (Teaching Assistant) — but that’s okay, this repository is for everyone taking the course.
 
-## Course Structure
+The goal here is to help you get started with programming in C++. Whether you’re completely new or just brushing up, you’ll find resources to practice, learn step by step, and build a solid foundation.
 
-The course is organized into several modules, each covering a fundamental topic in C++. Each module includes explanations, example code, and practice questions to help you grasp the concepts thoroughly.
+## Repository Structure
+
+The repository is organized into several modules, each covering a fundamental topic in C++. Each module includes explanations, example code, and practice questions to help you grasp the concepts thoroughly.
 
 ### Modules
 
@@ -53,19 +55,30 @@ The course is organized into several modules, each covering a fundamental topic 
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/syedtaha22/Intro_to_Programming_CPP.git
-   ```
+There are a few ways you can use this repository depending on your preference:
 
-2. **Navigate to the Course Directory:**
-   ```bash
-   cd Intro_to_Programming_CPP
-   ```
+1. **Browse Directly on GitHub (easiest):**
 
-3. **Explore the Modules:**
-   - Open the `README.md` files in each module directory to read about the concepts covered.
-   - Check the `examples/` folder for code examples and the `practice_questions/` folder for exercises.
+   * Just open the repository in your browser.
+   * GitHub automatically renders Markdown files, so you can read notes and explanations directly.
+   * Downside: you can’t run code here.
+
+2. **Use the GitHub Mobile App:**
+
+   * Install the [GitHub app](https://github.com/mobile) on your phone.
+   * Star this repository so it’s always easy to access.
+   * You’ll get a clean interface to read the material anywhere, anytime.
+   * *(This is the way I personally prefer — very convenient!)*
+
+3. **Clone the Repository (to run code side by side):**
+
+   * If you want to try out the examples and practice problems on your computer, you can clone the repo:
+
+     ```bash
+     git clone https://github.com/syedtaha22/Intro_to_Programming_CPP.git
+     cd Intro_to_Programming_CPP
+     ```
+   * Open the files in your preferred editor (e.g., VS Code, CLion, or even a simple text editor) and run the C++ code locally.
 
 ## Contact
 
