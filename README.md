@@ -48,6 +48,9 @@ The course is organized into several modules, each covering a fundamental topic 
    - Manipulating linked lists, and working with nodes.
    - Using vectors for dynamic arrays.
 
+10. **[Labs and Solutions (Fall 2024)](fall24/)**
+    - Lab excercies and their solutions for Fall 2024.
+
 ## Getting Started
 
 1. **Clone the Repository:**
