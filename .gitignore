@@ -1,5 +1,6 @@
 # Ignore all .exe files
 *.exe
+*.out
 
 # Ignore all .zip files
 *.zip
