@@ -1,5 +1,5 @@
 /********************************************************************
- * @file task1.cpp
+ * @file    task1.cpp
  *
  * @details Write a program that asks for a student’s score (0-100)
  *          and prints their grade based on the score:
