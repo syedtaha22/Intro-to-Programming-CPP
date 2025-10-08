@@ -54,45 +54,45 @@ int main() {
         return 1;
     }
 
-    int resNum = 0, resDen = 1;
+    int res_num = 0, res_den = 1;
 
     if (op == '+') {
-        resNum = n1 * d2 + n2 * d1;
-        resDen = d1 * d2;
+        res_num = n1 * d2 + n2 * d1;
+        res_den = d1 * d2;
     }
     else if (op == '-') {
-        resNum = n1 * d2 - n2 * d1;
-        resDen = d1 * d2;
+        res_num = n1 * d2 - n2 * d1;
+        res_den = d1 * d2;
     }
     else if (op == '*') {
-        resNum = n1 * n2;
-        resDen = d1 * d2;
+        res_num = n1 * n2;
+        res_den = d1 * d2;
     }
     else if (op == '/') {
         if (n2 == 0) {
             std::cout << "Error: division by zero (second fraction numerator is zero).\n";
             return 1;
         }
-        resNum = n1 * d2;
-        resDen = d1 * n2;
+        res_num = n1 * d2;
+        res_den = d1 * n2;
     }
     else {
         std::cout << "Error: invalid operation.\n";
         return 1;
     }
 
-    if (resDen == 0) {
+    if (res_den == 0) {
         std::cout << "Error: result has zero denominator.\n";
         return 1;
     }
 
     // Simplify result
-    if (resDen < 0) {
-        resNum = -resNum;
-        resDen = -resDen;
+    if (res_den < 0) {
+        res_num = -res_num;
+        res_den = -res_den;
     }
 
-    int a = abs(resNum), b = abs(resDen);
+    int a = abs(res_num), b = abs(res_den);
     while (b != 0) {
         int t = b;
         b = a % b;
@@ -100,11 +100,11 @@ int main() {
     }
     int g = a;
     if (g != 0) {
-        resNum /= g;
-        resDen /= g;
+        res_num /= g;
+        res_den /= g;
     }
 
-    std::cout << "Result: " << resNum << "/" << resDen << std::endl;
+    std::cout << "Result: " << res_num << "/" << res_den << std::endl;
 
     return 0;
 }
