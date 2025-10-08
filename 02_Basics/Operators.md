@@ -142,8 +142,8 @@ Increment and decrement operators are used to increase or decrease a value by on
 Bitwise shift operators move bits of a number to the left or right. They are commonly used in low-level programming, optimizations, and bit manipulation.
 
 * **Left Shift (`<<`)**: Shifts bits to the left by a specified number of positions. Each left shift multiplies the value by 2 for each shift.
-  General rule:
-  $$n << k = n \times 2^k$$
+
+  General rule: $n << k = n \times 2^k$
 
   ```cpp
   int x = 5;        // binary: 0000 0101
@@ -151,8 +151,8 @@ Bitwise shift operators move bits of a number to the left or right. They are com
   ```
 
 * **Right Shift (`>>`)**: Shifts bits to the right by a specified number of positions. Each right shift divides the value by 2 for each shift (for positive integers).
-  General rule:
-  $$n >> k = n \div 2^k$$
+  
+  General rule: $n >> k = n \div 2^k$
 
   ```cpp
   int y = 20;       // binary: 0001 0100
