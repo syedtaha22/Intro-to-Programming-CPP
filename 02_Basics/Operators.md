@@ -136,6 +136,38 @@ Increment and decrement operators are used to increase or decrease a value by on
   b--;  // b is now 9
   ```
 
+
+### 6. Bitwise Shift Operators
+
+Bitwise shift operators move bits of a number to the left or right. They are commonly used in low-level programming, optimizations, and bit manipulation.
+
+* **Left Shift (`<<`)**: Shifts bits to the left by a specified number of positions. Each left shift multiplies the value by 2 for each shift.
+  General rule:
+  [
+  n << k = n \times 2^k
+  ]
+
+  ```cpp
+  int x = 5;        // binary: 0000 0101
+  int result = x << 1;  // binary: 0000 1010 → result is 10
+  ```
+
+* **Right Shift (`>>`)**: Shifts bits to the right by a specified number of positions. Each right shift divides the value by 2 for each shift (for positive integers).
+  General rule:
+  [
+  n >> k = n \div 2^k
+  ]
+
+  ```cpp
+  int y = 20;       // binary: 0001 0100
+  int result = y >> 2;  // binary: 0000 0101 → result is 5
+  ```
+
+**Notes:**
+
+* Left shift (`<<`) discards bits that overflow on the left and fills with zeros on the right.
+* Right shift (`>>`) discards bits that overflow on the right. For signed integers, behavior may depend on compiler (arithmetic vs. logical shift).
+
 ## Example
 
 Here’s a simple example that uses various operators:
@@ -157,14 +189,21 @@ int main() {
     // Logical Operators
     bool result = (a < b) && (b > 10);
     
+    // Bitwise Shift Operators
+    int leftShift = a << 1;   // a * 2^1 = 20
+    int rightShift = b >> 2;  // b / 2^2 = 5
+    
     // Output results
     std::cout << "Sum: " << sum << std::endl;
     std::cout << "Product: " << product << std::endl;
     std::cout << "Is Equal: " << (isEqual ? "True" : "False") << std::endl;
     std::cout << "Result: " << (result ? "True" : "False") << std::endl;
+    std::cout << "Left Shift (a << 1): " << leftShift << std::endl;
+    std::cout << "Right Shift (b >> 2): " << rightShift << std::endl;
     
     return 0;
 }
+
 ```
 
 ## Summary
