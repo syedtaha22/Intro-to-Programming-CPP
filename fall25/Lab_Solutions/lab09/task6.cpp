@@ -41,7 +41,6 @@
 #include <vector>
 #include <iomanip>
 
-
 // Get the domain from an email
 std::string get_domain(const std::string& email) {
     size_t at_pos = email.find('@');
